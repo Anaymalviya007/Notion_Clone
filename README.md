@@ -1,6 +1,6 @@
 # Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind
 
-[Live Website](https://jotion-note-taking-l1kio7zvr-anay-s-projects.vercel.app/)
+[Live Website](https://jotion-note-taking-app-black.vercel.app/)
 
 
 Key Features:
